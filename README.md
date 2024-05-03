@@ -1,16 +1,29 @@
-### Hi there 👋
+# Josh Brown 
+I am a student at [waimea college](https://wamea.school.nz) in NZ
 
-<!--
-**waimea-Jbrown/waimea-jbrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Intrests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+when im not coding i like to:
+
+- Eat 
+- sleep 
+- game 
+- repeat
+
+## MY morning routine
+1. Eat 
+2. sleep 
+3. game 
+4. repeat
+
+## Favourite Code Snippet
+I like to write HTML, especialy `<head>` tags
+```html
+<head>
+    <title>WOW</title>
+</head>
+```
+
+## I like this
+![alt text](png-clipart-american-psycho-christian-bale-patrick-bateman-batman-youtube-christian-bale-tshirt-celebrities.png)
